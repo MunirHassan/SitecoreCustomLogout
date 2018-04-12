@@ -1,0 +1,7 @@
+C:\_D\Git n git\Sitecore.Custom.Logout\Sitecore.Custom.Logout\bin\Debug\Sitecore.Custom.Logout.dll
+C:\_D\Git n git\Sitecore.Custom.Logout\Sitecore.Custom.Logout\bin\Debug\Sitecore.Custom.Logout.pdb
+C:\_D\Git n git\Sitecore.Custom.Logout\Sitecore.Custom.Logout\bin\Debug\Sitecore.Kernel.dll
+C:\_D\Git n git\Sitecore.Custom.Logout\Sitecore.Custom.Logout\bin\Debug\Newtonsoft.Json.dll
+C:\_D\Git n git\Sitecore.Custom.Logout\Sitecore.Custom.Logout\obj\Debug\Sitecore.Custom.Logout.csprojResolveAssemblyReference.cache
+C:\_D\Git n git\Sitecore.Custom.Logout\Sitecore.Custom.Logout\obj\Debug\Sitecore.Custom.Logout.dll
+C:\_D\Git n git\Sitecore.Custom.Logout\Sitecore.Custom.Logout\obj\Debug\Sitecore.Custom.Logout.pdb
