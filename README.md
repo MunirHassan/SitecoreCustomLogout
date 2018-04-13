@@ -15,3 +15,6 @@ I have also created couple of Config files, which need to be present in the Webs
 And finally "Sitecore.Custom.Logout.dll" needs to be copied to the Website->bin directory.
 
 Now Logout and see the Magic.
+
+## Tech used:
+I have used .Net 4.5.2 and Sitecore 8.2 update-5
